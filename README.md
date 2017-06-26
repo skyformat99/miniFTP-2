@@ -11,9 +11,9 @@
 ├── ftpcodes.h		// miniFTP 应答标识符模块
 ├── ftpproto.c		// 服务进程模块
 ├── ftpproto.h
-├── hash.c			  // 哈希表模块
+├── hash.c			// 哈希表模块
 ├── hash.h
-├── main.c			  // 主函数
+├── main.c			// 主函数
 ├── Makefile
 ├── miniftpd.conf	// 配置文件
 ├── parseconf.c		// 解析配置文件模块
@@ -22,13 +22,13 @@
 ├── privparent.h
 ├── privsock.c		// 服务进程和nobody进程内部通信模块
 ├── privsock.h
-├── session.c		  // 服务进程与nobody进程的会话控制模块
+├── session.c		// 服务进程与nobody进程的会话控制模块
 ├── session.h
-├── str.c			    // 字符串工具模块
+├── str.c			// 字符串工具模块
 ├── str.h
-├── sysutil.c			// 系统工具模块
+├── sysutil.c	    // 系统工具模块
 ├── sysutil.h
-├── tunable.c		  // 服务器配置模块
+├── tunable.c	    // 服务器配置模块
 └── tunable.h
 ```
 ## 3. miniFTP 实现功能
